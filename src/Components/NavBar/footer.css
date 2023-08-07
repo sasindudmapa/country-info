@@ -1,0 +1,21 @@
+.home {
+  position: relative;
+}
+
+#footer {
+  background-color: black;
+  color: aliceblue;
+  margin-top: 20vh;
+  height: 100px;
+  width: 100vw;
+  position: absolute;
+  bottom: 0;
+}
+
+.contentFooter {
+  font-size: 1.3rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
